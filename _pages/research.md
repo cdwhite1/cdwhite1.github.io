@@ -9,7 +9,7 @@ permalink: /research/
 ---
 
 ## Working Papers
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_v2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Stefanie Fischer](https://stefaniejfischer.github.io/){:target="_blank"})
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_v2.pdf){:target="_blank"}** (joint with Stefanie Fischer and Heather Royer).
 
 ## Publications
 
@@ -29,7 +29,7 @@ permalink: /research/
 > *IZA Discussion Paper No. 12603*\
 > *Press: [Yahoo News](https://news.yahoo.com/hotter-weather-brings-more-stress-180146567.html){:target="_blank"}, [The Conversation](https://theconversation.com/as-heatwaves-become-more-extreme-which-jobs-are-riskiest-151841){:target="_blank"}, [Men's Health](https://www.menshealth.com/health/a34919033/happiest-cities-in-america/){:target="_blank"}*
  
-**[The Impacts of Reduced Access to Abortion and Family Planning Services on Abortions, Births, and Contraceptive Purchases](/assets/docs/Abortion_v21.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Stefanie Fischer](https://stefaniejfischer.github.io/){:target="_blank"}), ***Journal of Public Economics***, November 2018.
+**[The Impacts of Reduced Access to Abortion and Family Planning Services on Abortions, Births, and Contraceptive Purchases](/assets/docs/Abortion_v21.pdf){:target="_blank"}** (joint with Stefanie Fischer and Heather Royer), ***Journal of Public Economics***, November 2018.
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 10920*\
 *Press: [NYT The Upshot](https://www.nytimes.com/interactive/2019/07/18/upshot/roe-v-wade-abortion-maps-planned-parenthood.html?mtrref=www.nytimes.com&mtrref=www.nytimes.com&gwh=A499654C4F13DA63E11C9DBDDDBBE942&gwt=pay&assetType=PAYWALL){:target="_blank"}, [New York Times](https://drive.google.com/file/d/1NmMqDfwAdqKMr2RttZgEjG0U4B2NFdFy/view){:target="_blank"}, [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2021/12/earlier-data-on-texas-abortion-restrictions.html#comments){:target="_blank"}, [Houston Chronicle](https://www.houstonchronicle.com/business/texanomics/article/Study-Texas-abortion-restrictions-boosted-birth-11720119.php){:target="_blank"}, [MarketWatch](https://www.marketwatch.com/story/what-happened-to-birth-rates-after-texas-restricted-access-to-abortion-2017-08-01){:target="_blank"}*\
 #*Policy: [Washington Post](https://www.washingtonpost.com/opinions/2021/11/30/court-cannot-fool-itself-eviscerating-roe-would-upend-lives/){:target="_blank"}, [New York Times](https://www.nytimes.com/2021/12/01/upshot/mississippi-abortion-case-roe.html){:target="_blank"},  [Brookings Report](){:target="_blank"}, [Nature](https://www.nature.com/articles/d41586-021-02834-7){:target="_blank"}, [C-SPAN](https://www.c-span.org/video/?c4989037/user-clip-economists-amicus){:target="_blank"}*
