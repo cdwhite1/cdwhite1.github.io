@@ -11,7 +11,7 @@ permalink: /research/
 ## Working Papers
  **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_v2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Stefanie Fischer](https://stefaniejfischer.github.io/){:target="_blank"})
 
-## Published Articles
+## Publications
 
 **[Measuring Social and Externality Benefits of Influenza Vaccination](/assets/docs/Revision_White_Flu_June2019.pdf){:target="_blank"}**, ***Journal of Human Resources***, July 2021.
 > *IZA Discussion Paper No. 12525*\
