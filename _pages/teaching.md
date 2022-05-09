@@ -3,7 +3,7 @@ title: Teaching
 author_profile: true
 
 header:
-  image: /assets/images/j_hole_crop.jpg
+#  image: /assets/images/j_hole_crop.jpg
   
 permalink: /teaching/
 ---
