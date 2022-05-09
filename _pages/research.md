@@ -20,8 +20,7 @@ permalink: /research/
 *Press: [See for summary](https://annals.altmetric.com/details/97097476/news){:target="_blank"}*
 
 **[Can Access to Health Care Mitigate the Effects of Temperature on Mortality?](/assets/docs/EnvInt_MullinsWhite_JPubE_RR2.pdf){:target="_blank"}** (joint with Jamie Mullins), ***Journal of Public Economics***, November 2020.
-> *IZA Discussion Paper No. 12717*\
-#*Previously Circulated as ["Does Access to Health Care Mitigate Environmental Damages?"](/assets/docs/IZA_dp12717.pdf){:target="_blank"}*
+> *IZA Discussion Paper No. 12717*
 
 **[Temperature and Mental Health: Evidence from the Spectrum of Mental Health Outcomes](/assets/docs/Weather_MH_R%26R_V13.pdf){:target="_blank"}** (joint with Jamie Mullins), ***Journal of Health Economics***, December 2019.
 > *IZA Discussion Paper No. 12603*\
