@@ -8,6 +8,9 @@ header:
 permalink: /research/
 ---
 
+## Working Papers
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_v2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Stefanie Fischer](https://stefaniejfischer.github.io/){:target="_blank"})
+
 ## Published Articles
 
 **[Measuring Social and Externality Benefits of Influenza Vaccination](/assets/docs/Revision_White_Flu_June2019.pdf){:target="_blank"}**, ***Journal of Human Resources***, July 2021.
@@ -40,13 +43,4 @@ permalink: /research/
 
 ---
 
-## Working Papers
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_v2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Stefanie Fischer](https://stefaniejfischer.github.io/){:target="_blank"})
-
----
-
-<!-- ## Selected Works in Progress
- **The Academic Calendar and Faculty Productivity** (joint with [Valerie K. Bostwick](https://vkbostwick.weebly.com/){:target="_blank"}, [Francesca Truffa](https://sites.northwestern.edu/ftl2720/){:target="_blank"} and [Ashley Wong](https://www.ashley-wong.net/){:target="_blank"})
-
- **The Role of Peer Effects in Civic Engagement** (joint with Philip Babcock and Kelly Bedard)  -->
 
