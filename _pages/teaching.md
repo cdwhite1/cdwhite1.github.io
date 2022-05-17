@@ -7,7 +7,7 @@ header:
   
 permalink: /teaching/
 ---
-- Economics of Environment and Sustainability *(Monash)
+- Economics of Environment and Sustainability *(Monash)*
 - Research Methods in Applied Economics *(Cal Poly)*
 - Principles of Economics *(Cal Poly)*
 - Undergraduate Econometrics *(UCSB, Cal Poly)*
