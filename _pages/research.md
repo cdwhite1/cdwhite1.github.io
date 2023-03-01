@@ -9,7 +9,7 @@ permalink: /research/
 ---
 
 ## Working Papers
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (joint with Stefanie Fischer and Heather Royer), ***R&R - AEJ Applied***
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (joint with Stefanie Fischer and Heather Royer), ***R&R at AEJ Applied*** -- ***NEW VERSION***
 > *NBER Working Paper No. 23634*\
 > *Press: [Freakonomics MD Podcast](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}*
 
