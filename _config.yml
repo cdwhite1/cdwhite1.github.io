@@ -106,7 +106,9 @@ defaults:
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+minima:
+  skin: dark
+  
 include:
  - _pages
 
