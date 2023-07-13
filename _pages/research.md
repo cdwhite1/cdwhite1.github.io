@@ -9,6 +9,9 @@ permalink: /research/
 ---
 
 ## Working Papers
+**Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke** (joint with David Molitor and Jamie Mullins)
+>*Coming Soon!*
+
  **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (joint with Stefanie Fischer and Heather Royer), *Updated Feb 2023*, ***Conditionally Accepted: AEJ Applied***
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 15987*\
 > *Press: [Freakonomics MD Podcast](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}*
