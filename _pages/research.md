@@ -24,8 +24,7 @@ permalink: /research/
 > *Policy: [White House Report](https://www.whitehouse.gov/wp-content/uploads/2021/10/Vaccination-Requirements-Report.pdf){:target="_blank"}*
 
 **[Population Mortality and Laws Encouraging Influenza Vaccination for Hospital Workers](https://www.acpjournals.org/doi/10.7326/M20-0413){:target="_blank"}** (with Mariana Carrera and Emily Lawler), ***Annals of Internal Medicine***, 2021.
-> Email for an ungated version.\
-*Press: [See for summary](https://annals.altmetric.com/details/97097476/news){:target="_blank"}*
+> *Press: [See for summary](https://annals.altmetric.com/details/97097476/news){:target="_blank"}*
 
 **[Can Access to Health Care Mitigate the Effects of Temperature on Mortality?](/assets/docs/EnvInt_MullinsWhite_JPubE_RR2.pdf){:target="_blank"}** (with Jamie Mullins), ***Journal of Public Economics***, 2020.
 > *IZA Discussion Paper No. 12717*
