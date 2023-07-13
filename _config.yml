@@ -45,7 +45,7 @@ minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "
 author:
   name: "Corey White"
   avatar: "/assets/images/white_c_f17_full.jpeg"
-  bio: "*Senior Lecturer of Economics at Monash University, Melbourne; 
+  bio: "*Senior Lecturer of Economics at Monash University; 
   Research Affiliate at IZA Institute of Labor Economics*" # Note: Markdown is allowed
   location: "Melbourne, Australia"
   links:
