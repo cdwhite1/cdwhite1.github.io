@@ -11,7 +11,7 @@ permalink: /research/
 ## Working Papers
 
 
-**Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke** (with David Molitor and Jamie Mullins), ***Conditionally Accepted at Proceedings of the National Academy of Sciences***.
+**Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke** (with David Molitor and Jamie Mullins), ***Conditionally Accepted at PNAS***.
 
  **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (with Stefanie Fischer and Heather Royer), ***Conditionally Accepted: AEJ Applied***.
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 15987*\
