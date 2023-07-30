@@ -34,7 +34,7 @@ permalink: /research/
 
 **[Temperature and Mental Health: Evidence from the Spectrum of Mental Health Outcomes](/assets/docs/Weather_MH_R%26R_V13.pdf){:target="_blank"}** (with Jamie Mullins), ***Journal of Health Economics***, 2019.
 > *IZA Discussion Paper No. 12603*\
-> *Press: [Yahoo News](https://news.yahoo.com/hotter-weather-brings-more-stress-180146567.html){:target="_blank"}, [The Conversation](https://theconversation.com/as-heatwaves-become-more-extreme-which-jobs-are-riskiest-151841){:target="_blank"}, [Men's Health](https://www.menshealth.com/health/a34919033/happiest-cities-in-america/){:target="_blank"}*
+> *Press: [Washington Post](https://www.washingtonpost.com/wellness/2023/07/03/summer-sad-depression-symptoms-causes-treatment/){:target="_blank"}, [Yahoo News](https://news.yahoo.com/hotter-weather-brings-more-stress-180146567.html){:target="_blank"}, [The Conversation](https://theconversation.com/as-heatwaves-become-more-extreme-which-jobs-are-riskiest-151841){:target="_blank"}, [Men's Health](https://www.menshealth.com/health/a34919033/happiest-cities-in-america/){:target="_blank"}*
  
 **[The Impacts of Reduced Access to Abortion and Family Planning Services on Abortions, Births, and Contraceptive Purchases](/assets/docs/Abortion_v21.pdf){:target="_blank"}** (with Stefanie Fischer and Heather Royer), ***Journal of Public Economics***, 2018.
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 10920*\
