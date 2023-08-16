@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Working Papers
 
-**Do Cities Mitigate or Exacerbate Environmental Damages to Health?** (with David Molitor), ***Revise and Resubmit - Regional Science and Urban Economics (solicited) ***.
+**Do Cities Mitigate or Exacerbate Environmental Damages to Health?** (with David Molitor), ***Revise and Resubmit - Regional Science and Urban Economics (solicited)***.
 
 **Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke** (with David Molitor and Jamie Mullins), ***Accepted: PNAS***.
 
