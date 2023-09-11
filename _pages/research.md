@@ -10,7 +10,6 @@ permalink: /research/
 
 ## Working Papers
 
-**Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke** (with David Molitor and Jamie Mullins), ***Forthcoming: PNAS***.
 
  **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (with Stefanie Fischer and Heather Royer), ***Forthcoming: AEJ Applied***.
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 15987*\
@@ -20,6 +19,7 @@ permalink: /research/
 
 ## Publications
 
+**[Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke](/assets/docs/pnas_2023_smokesuicide.pdf){:target="_blank"}** (with David Molitor and Jamie Mullins), ***Proceedings of the National Academy of Sciences***, 2023
 
 **[Measuring Social and Externality Benefits of Influenza Vaccination](/assets/docs/Revision_White_Flu_June2019.pdf){:target="_blank"}**, ***Journal of Human Resources***, 2021.
 > *IZA Discussion Paper No. 12525*\
