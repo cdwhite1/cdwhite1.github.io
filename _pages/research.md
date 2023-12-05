@@ -19,8 +19,8 @@ permalink: /research/
 
 ## Publications
 
-**[Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke](/assets/docs/pnas_2023_smokesuicide.pdf){:target="_blank"}** (with David Molitor and Jamie Mullins), ***Proceedings of the National Academy of Sciences***, 2023
-> *Press: [Scientific American](https://www.scientificamerican.com/article/air-pollution-is-really-dangerous-even-more-new-evidence-shows/){:target="_blank"}, *
+**[Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke](/assets/docs/pnas_2023_smokesuicide.pdf){:target="_blank"}** (with David Molitor and Jamie Mullins), ***Proceedings of the National Academy of Sciences***, 2023.
+> *Press: [Scientific American](https://www.scientificamerican.com/article/air-pollution-is-really-dangerous-even-more-new-evidence-shows/){:target="_blank"},*\
 
 **[Measuring Social and Externality Benefits of Influenza Vaccination](/assets/docs/Revision_White_Flu_June2019.pdf){:target="_blank"}**, ***Journal of Human Resources***, 2021.
 > *IZA Discussion Paper No. 12525*\
