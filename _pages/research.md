@@ -20,7 +20,7 @@ permalink: /research/
 ## Publications
 
 **[Air Pollution and Suicide in Rural and Urban America: Evidence from Wildfire Smoke](/assets/docs/pnas_2023_smokesuicide.pdf){:target="_blank"}** (with David Molitor and Jamie Mullins), ***Proceedings of the National Academy of Sciences***, 2023.
-> *Press: [Scientific American](https://www.scientificamerican.com/article/air-pollution-is-really-dangerous-even-more-new-evidence-shows/){:target="_blank"},*
+> *Press: [Scientific American](https://www.scientificamerican.com/article/air-pollution-is-really-dangerous-even-more-new-evidence-shows/){:target="_blank"},[NPR](https://www.nprillinois.org/health-harvest/2023-10-12/a-study-shows-that-air-pollution-from-wildfire-smoke-increases-suicide-in-rural-areas){:target="_blank"},[Daily Beast](https://www.thedailybeast.com/how-air-pollution-and-wildfires-are-making-us-more-suicidal){:target="_blank"},[US News](https://www.usnews.com/news/health-news/articles/2023-09-11/could-wildfire-smoke-raise-rural-suicide-rates){:target="_blank"},[CTV News](https://www.ctvnews.ca/health/air-pollution-caused-by-wildfire-smoke-linked-to-elevated-suicide-risk-in-rural-counties-u-s-research-1.6557390){:target="_blank"}*
 
 **[Measuring Social and Externality Benefits of Influenza Vaccination](/assets/docs/Revision_White_Flu_June2019.pdf){:target="_blank"}**, ***Journal of Human Resources***, 2021.
 > *IZA Discussion Paper No. 12525*\
