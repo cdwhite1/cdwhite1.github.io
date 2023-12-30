@@ -16,7 +16,7 @@ permalink: /research/
 > *Press: [Freakonomics MD Podcast](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}*
 
 **[Do Cities Mitigate or Exacerbate Environmental Damages to Health?](/assets/docs/wp_urban_environmental_health_risks.pdf){:target="_blank"}** (with David Molitor), ***Forthcoming: Regional Science and Urban Economics***.
-> Special Issue (solicited)*\
+> Solicited Special Issue*\
 > *NBER Working Paper No. 31990, IZA Discussion Paper No. 16678*
 
 ## Publications
