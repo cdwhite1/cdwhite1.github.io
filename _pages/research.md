@@ -48,7 +48,6 @@ permalink: /research/
 > *Press: [Popular Science](https://www.popsci.com/story/science/healthcare-paid-sick-leave-coronavirus/){:target="_blank"}*
 
  **[The Dynamic Relationship Between Temperature and Morbidity](/assets/docs/White_JAERE_Revised_3.pdf){:target="_blank"}**, ***Journal of the Association of Environmental and Resource Economists***, 2017.
- >[Online-only Appendix](/assets/docs/White_JAERE_Final_OA.pdf){:target="_blank"}
 
  **[Using vehicle-to-grid technology for frequency regulation and peak-load reduction](https://www.sciencedirect.com/science/article/abs/pii/S0378775310019142){:target="_blank"}** (with K. Max Zhang), ***Journal of Power Sources***, 2011.
 
