@@ -24,7 +24,7 @@ name: "Corey White"
 repository: "cdwhite1/cdwhite1.github.io"
 email: corey.white@monash.edu
 description:
-  Senior Lecturer (Advanced Assistant Professor) of Economics 
+  Senior Lecturer of Economics 
   at Monash University, Melbourne | Research Affiliate, IZA Institute of Labor Economics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cdwhite1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -45,8 +45,7 @@ minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "
 author:
   name: "Corey White"
   avatar: "/assets/images/white_c_f17_full.jpeg"
-  bio: "*Senior Lecturer of Economics at Monash University; 
-  Research Affiliate at IZA Institute of Labor Economics*" # Note: Markdown is allowed
+  bio: "*Senior Lecturer of Economics at Monash University*" # Note: Markdown is allowed
   location: "Melbourne, Australia"
   links:
   #  - label: "Website"
