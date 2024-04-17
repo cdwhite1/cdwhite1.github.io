@@ -43,7 +43,7 @@ minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "
 
 # Displaying author info
 author:
-  name: "Corey White"
+  #name: "Corey White"
   avatar: "/assets/images/white_c_f17_full.jpeg"
   bio: "*Senior Lecturer of Economics at Monash University*" # Note: Markdown is allowed
   location: "Melbourne, Australia"
