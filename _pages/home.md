@@ -9,7 +9,7 @@ I am a Senior Lecturer of Economics at [Monash University](https://research.mona
 
 Promoted to Associate Professor (with tenure), effective July 2024.
 
-***Research Areas***: *health economics, environmental economics, public economics, applied microeconomics*
+***Research Areas***: *public economics, applied microeconomics, health economics, environmental economics*
 
 ---
 <!-- 
