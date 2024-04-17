@@ -7,9 +7,9 @@ header:
 
 I am a Senior Lecturer of Economics at [Monash University](https://research.monash.edu/en/persons/corey-white){:target="_blank"} in Melbourne and a Research Affiliate at the [IZA Institute of Labor Economics](https://www.iza.org/){:target="_blank"}.  
 
-Promoted to Associate Professor (with tenure), effective July 2024.
+Associate Professor (with tenure), effective July 2024.
 
-***Research Areas***: *health economics, environment economics, public economics, applied microeconomics*
+***Research Areas***: *health economics, environmental economics, public economics, applied microeconomics*
 
 ---
 <!-- 
