@@ -45,8 +45,8 @@ minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "
 author:
   name: "Corey White"
   avatar: "/assets/images/white_c_f17_full.jpeg"
-  bio: "*Associate Professor of Economics at Monash University*" # Note: Markdown is allowed
-  location: "Melbourne, Australia"
+  bio: "*Lead Economist at Amazon*" # Note: Markdown is allowed
+  location: "Seattle, Washington"
   links:
   #  - label: "Website"
    #   icon: "fas fa-fw fa-link"
