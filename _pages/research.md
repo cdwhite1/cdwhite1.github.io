@@ -26,6 +26,8 @@ permalink: /research/
 > *Press: [LA Times](https://www.latimes.com/opinion/op-ed/la-oe-ayers-flu-shots-20181112-story.html?_amp=true){:target="_blank"}, [NPR (Marketplace)](https://www.marketplace.org/2021/05/28/how-effective-are-employer-vaccine-mandates/){:target="_blank"}, [Tradeoffs Podcast](https://tradeoffs.org/2021/05/20/calling-the-shots-should-employers-mandate-covid-vaccines/){:target="_blank"}, [IFLScience](https://www.iflscience.com/health-and-medicine/just-a-one-percent-increase-in-flu-shots-could-save-hundreds-of-lives-/){:target="_blank"}, [Reddit (front page)](https://www.reddit.com/r/science/comments/d6dpu1/flu_vaccination_in_the_us_substantially_reduces/){:target="_blank"}, [Marginal Revolution University](https://www.youtube.com/watch?ab_channel=MarginalRevolutionUniversity&feature=youtu.be&v=2EFG6dvtQ6M){:target="_blank"}, [](){:target="_blank"}*\
 > *Policy: [White House Report](https://www.whitehouse.gov/wp-content/uploads/2021/10/Vaccination-Requirements-Report.pdf){:target="_blank"}*
 
+href="/assets/docs/Flu_JHR_WhiteHouseReport.pdf">White House Report<
+
 <!--**[Population Mortality and Laws Encouraging Influenza Vaccination for Hospital Workers](https://www.acpjournals.org/doi/10.7326/M20-0413){:target="_blank"}** (with Mariana Carrera and Emily Lawler), ***Annals of Internal Medicine***, 2021.
 > *Press: [See for summary](https://annals.altmetric.com/details/97097476/news){:target="_blank"}*
 -->
