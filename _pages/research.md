@@ -29,9 +29,6 @@ permalink: /research/
  [White House Report]("/assets/docs/Flu_JHR_WhiteHouseReport.pdf"){:target="_blank"}*
 
 
-href="/assets/docs/Flu_JHR_WhiteHouseReport.pdf">White House Report<
-
-
 <!--**[Population Mortality and Laws Encouraging Influenza Vaccination for Hospital Workers](https://www.acpjournals.org/doi/10.7326/M20-0413){:target="_blank"}** (with Mariana Carrera and Emily Lawler), ***Annals of Internal Medicine***, 2021.
 > *Press: [See for summary](https://annals.altmetric.com/details/97097476/news){:target="_blank"}*
 -->
