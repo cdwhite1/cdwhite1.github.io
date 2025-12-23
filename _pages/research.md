@@ -8,6 +8,11 @@ header:
 permalink: /research/
 ---
 
+## Working Papers
+ **[Disentangling Sources of Variation in C-Section Rates](/assets/docs/w34469.pdf){:target="_blank"}** (with Stefanie Fischer, Shuhei Kaneko, and Heather Royer), 2025.
+> *NBER Working Paper No. 34469*\
+
+
 ## Selected Publications
 
  **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R1.pdf){:target="_blank"}** (with Stefanie Fischer and Heather Royer), ***American Economic Journal: Applied Economics***, 2024.
