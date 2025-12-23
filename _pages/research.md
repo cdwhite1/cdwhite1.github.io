@@ -19,6 +19,7 @@ permalink: /research/
 > *NBER Working Paper No. 23634, IZA Discussion Paper No. 15987*\
 > *Press: [Freakonomics MD Podcast](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}*
 
+
 <!--**[Do Cities Mitigate or Exacerbate Environmental Damages to Health?](/assets/docs/wp_urban_environmental_health_risks.pdf){:target="_blank"}** (with David Molitor), ***Regional Science and Urban Economics***, 2024.
 > *Solicited Special Issue*\
 > *NBER Working Paper No. 31990, IZA Discussion Paper No. 16678*
