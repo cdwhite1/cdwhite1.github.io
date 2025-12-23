@@ -33,11 +33,6 @@ url: "cdwhite1.github.io" # the base hostname & protocol for your site, e.g. htt
 social:
   type: Person  # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
-  links:
-    - "https://twitter.com/corey_d_white"
-twitter_username: corey_d_white
-twitter:
-  username: "corey_d_white"
 github_username: cdwhite1
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
