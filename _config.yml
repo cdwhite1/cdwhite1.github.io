@@ -63,7 +63,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cdwhite1"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/corey-white-562a4a2a7"
+      
 # Displaying website footer info
 footer:
   links:
