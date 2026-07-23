@@ -5,7 +5,9 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "CV"
+  - title: "Academic CV"
     url: /assets/docs/CoreyWhite_CV_2026.pdf
+  - title: "Resume"
+    url: /assets/docs/CoreyWhite_resume_2026.pdf
 
   
