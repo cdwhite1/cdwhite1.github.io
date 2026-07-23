@@ -8,8 +8,6 @@ header:
 permalink: /research/
 ---
 
-## Publications
-
  **[Disentangling Sources of Variation in C-Section Rates](/assets/docs/w34469.pdf){:target="_blank"}** (with Stefanie Fischer, Shuhei Kaneko, and Heather Royer), 2026. ***American Economic Journal: Economic Policy***, Conditionally Accepted.
 > *NBER Working Paper No. 34469*
 
